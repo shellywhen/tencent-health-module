@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+    position: absolute;
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+div {
+    position: absolute;
+}
+
+div#caption-cards-container {
+    width: 82.9333333333333vw;
+    height: 31.5vw;
+    border-radius: 1.6vw;
+    background-color: #f9f9f9;
+    left: 8.53333333333333vw;
+    top: 24.3vw;
+    display: none;
+}
+
+div.caption-card {
+    width: 75.2vw;
+    height: 22.4vw;
+    font-size: 3.5vw;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #888888;
+}
+
+div#caption-card-1 {
+    left: 3.86666666666667vw;
+    top: 4.93333333333333vw;
+}
+
+svg text {
+    text-anchor: middle;
+}
+
+svg g#captions text {
+    text-anchor: start;
+}

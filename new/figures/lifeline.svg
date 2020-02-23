@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="270px" height="270px" viewBox="0 0 270 270" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>编组 30</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="6.08845117%" y2="17.1203136%" id="linearGradient-1">
+            <stop stop-color="#F37867" offset="0%"></stop>
+            <stop stop-color="#FDC79F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="68.773743%" y1="63.2021022%" x2="0.247831093%" y2="-7.35531063%" id="linearGradient-2">
+            <stop stop-color="#F37867" offset="0%"></stop>
+            <stop stop-color="#FDC79F" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0.227873017" y="0" width="269.330025" height="270" rx="20"></rect>
+        <linearGradient x1="80.9713454%" y1="57.490972%" x2="-4.33120614%" y2="25.6586767%" id="linearGradient-5">
+            <stop stop-color="#F37867" offset="0%"></stop>
+            <stop stop-color="#FDC79F" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-32.5%" y="-32.5%" width="165.1%" height="165.1%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="9" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FFB881" offset="0%"></stop>
+            <stop stop-color="#F64C3F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="导航页" transform="translate(-93.000000, -531.000000)">
+            <g id="编组-30" transform="translate(93.000000, 531.000000)">
+                <g id="编组-26">
+                    <g id="编组-25">
+                        <g id="编组-4">
+                            <g id="编组-22">
+                                <g id="编组-21">
+                                    <g id="路径-14">
+                                        <mask id="mask-4" fill="white">
+                                            <use xlink:href="#path-3"></use>
+                                        </mask>
+                                        <use id="蒙版" fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                                        <path d="M-11,149.813467 C19.3938241,143.978503 58.7532923,152.22436 107.078405,174.551039 C155.403517,196.877718 205.723649,194.873608 258.038801,168.538709 L257.888103,281.925538 L-9.95873138,276.038741 L-11,149.813467 Z" fill="url(#linearGradient-5)" mask="url(#mask-4)"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <circle id="椭圆形" fill="#FAA889" cx="57.5" cy="134.5" r="6.5"></circle>
+                        </g>
+                        <text id="各地区病亡率与治愈率" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" fill="#FFFFFF">
+                            <tspan x="43" y="199">各地区病亡率与治愈率</tspan>
+                        </text>
+                        <g id="编组" transform="translate(44.000000, 139.000000)">
+                            <g id="编组-9"></g>
+                        </g>
+                    </g>
+                    <text id="疫情生命线" font-family="PingFangSC-Medium, PingFang SC" font-size="36" font-weight="400" fill="#FFFFFF">
+                        <tspan x="44" y="167">疫情生命线</tspan>
+                    </text>
+                </g>
+                <circle id="椭圆形" fill-opacity="0.3" fill="#FAA889" cx="182.5" cy="154.5" r="4.5"></circle>
+                <circle id="椭圆形" fill-opacity="0.3" fill="#FAA889" cx="234" cy="143" r="6"></circle>
+                <circle id="椭圆形" fill="#FB6A4C" filter="url(#filter-6)" cx="134.5" cy="84.5" r="41.5"></circle>
+                <g id="编组-28" transform="translate(94.000000, 44.000000)">
+                    <circle id="椭圆形" fill="#FFFFFF" cx="41.5" cy="41.5" r="41.5"></circle>
+                    <path d="M31.3112862,40.9475089 L19.0550081,40.9475089 C17.4058294,38.1739584 16.7194813,34.9252773 17.1043396,31.7144394 C17.8795403,24.9934394 23.2755454,19.6421946 29.8596848,19.056982 C34.514399,18.6352449 39.0706005,20.5852747 42.0044962,24.2548961 C44.6261373,20.9772 48.5609978,19.0506429 52.7357062,19.0007608 C60.2419798,18.9215398 66.6031858,25.0394386 66.9806528,32.7238671 C67.1361407,35.7462606 66.3513841,38.7421118 64.7361173,41.2925032 L47.4030345,41.2925032 C46.9708491,41.2942786 46.5873443,41.5723678 46.447967,41.9850473 L45.0394323,46.0892017 L34.1207555,32.6625348 C33.5127549,31.9137694 32.3246205,32.3558732 32.3246205,33.3269683 L32.3246205,39.9048595 C32.3273199,40.1784415 32.2219925,40.4418631 32.0318808,40.6369952 C31.8417692,40.8321272 31.5824999,40.9429303 31.3112862,40.9449534 L31.3112862,40.9475089 Z M44.998899,50.9318993 L35.3874233,39.1177614 L35.3874233,43.0481408 C35.3874233,43.6205758 34.9314229,44.0856792 34.374089,44.0856792 L21.5680771,44.0856792 C21.6491438,44.1623446 21.7302106,44.244121 21.8138107,44.3182309 L42.0019628,65 L62.0811815,44.428118 L49.5741032,44.428118 C49.1403183,44.4291763 48.7553126,44.7086428 48.6165023,45.1232176 L46.7342339,50.6124602 C46.6170459,50.9628884 46.3205286,51.2215331 45.9598636,51.287924 C45.5991986,51.354315 45.2312316,51.2179881 44.998899,50.9318993 Z" id="形状" fill="url(#linearGradient-7)" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
