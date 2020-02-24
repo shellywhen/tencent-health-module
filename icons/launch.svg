@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="25px" viewBox="0 0 15 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g  transform="translate(-652.000000, -585.000000)" stroke="#FF874B" stroke-width="3">
+            <polyline  transform="translate(653.500000, 597.500000) rotate(-45.000000) translate(-653.500000, -597.500000) " points="661 590 661 605 646 605"></polyline>
+        </g>
+    </g>
+</svg>
