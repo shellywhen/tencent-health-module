@@ -4,7 +4,7 @@
     <title>矩形</title>
     <desc>Created with Sketch.</desc>
     <g  stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
-        <g  transform="translate(-652.000000, -585.000000)" stroke="#39c237" stroke-width="3">
+        <g  transform="translate(-652.000000, -585.000000)" stroke="#298ffe" stroke-width="3">
             <polyline  transform="translate(653.500000, 597.500000) rotate(-45.000000) translate(-653.500000, -597.500000) " points="661 590 661 605 646 605"></polyline>
         </g>
     </g>
